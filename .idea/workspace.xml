@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="188dd88c-11a3-4a03-a26a-d8c68947be77" name="Changes" comment="steps 1-4 done, test cannot be done until producer class is implemented">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="188dd88c-11a3-4a03-a26a-d8c68947be77" name="Changes" comment="added flag to control loop">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ReadMe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723043912696</updated>
-      <workItem from="1723043913806" duration="4142000" />
+      <workItem from="1723043913806" duration="4357000" />
     </task>
     <task id="LOCAL-00001" summary="steps 1-4 done, test cannot be done until producer class is implemented">
       <option name="closed" value="true" />
@@ -107,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723046428078</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added flag to control loop">
+      <option name="closed" value="true" />
+      <created>1723048094294</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723048094294</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +121,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Shared Buffer defined" />
     <MESSAGE value="steps 1-4 done, test cannot be done until producer class is implemented" />
-    <option name="LAST_COMMIT_MESSAGE" value="steps 1-4 done, test cannot be done until producer class is implemented" />
+    <MESSAGE value="added flag to control loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="added flag to control loop" />
   </component>
 </project>
